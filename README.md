@@ -1,1 +1,1 @@
-# introduction_to_linalg
+ДЗ ко второму уроку
